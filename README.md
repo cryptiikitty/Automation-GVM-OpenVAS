@@ -44,4 +44,5 @@ cd /home/pyscript/
 cp -ap /opt/database/target.xlsx target.xlsx
 ```
 
-The script integrates with Vault for secure storage of sensitive data, such as authentication details. Ensure proper Vault configuration and setup of environment variables for secure handling of credentials.
+
+**The script integrates with Vault for secure storage of sensitive data, such as authentication details. Ensure proper Vault configuration and setup of environment variables for secure handling of credentials.**
